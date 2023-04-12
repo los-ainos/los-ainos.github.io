@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa01c07c.css",
+    "main.js": "/static/js/main.5beb665b.js",
+    "static/js/787.3d67d529.chunk.js": "/static/js/787.3d67d529.chunk.js",
+    "static/media/about.svg": "/static/media/about.83a26c16468d664005ae56757748707e.svg",
+    "static/media/gelombang.svg": "/static/media/gelombang.7a53d4c423270be89d5aa744b0389470.svg",
+    "static/media/gelombangPhone.svg": "/static/media/gelombangPhone.db1cdf0bee8a02872dd62fc5f4865561.svg",
+    "static/media/kita.svg": "/static/media/kita.c9d93ab7c02553c443419c34ce685da0.svg",
+    "static/media/kitaPhone.svg": "/static/media/kitaPhone.99a6b3bfc1973d960005ac033d303a1d.svg",
+    "static/media/peepsmembers.svg": "/static/media/peepsmembers.5097dc39062d063d96e665e3b1545158.svg",
+    "static/media/dimas.svg": "/static/media/dimas.654b2217b89b9d7f2110cd5687ac3bea.svg",
+    "static/media/fagian.svg": "/static/media/fagian.12798b6a9ae6091a20f15b7fd3e4f975.svg",
+    "static/media/andika.svg": "/static/media/andika.a7ea00897e9330628940eaf6d6d37bef.svg",
+    "static/media/jibran.svg": "/static/media/jibran.731c1c688935e923b5ea5d15b6979788.svg",
+    "static/media/dot.svg": "/static/media/dot.31adc463ef435cae5a936fa5aebb2999.svg",
+    "index.html": "/index.html",
+    "static/media/button-header.svg": "/static/media/button-header.8612bf9822a1087fa89a6c72c6d27c79.svg",
+    "static/media/close.svg": "/static/media/close.456e4e068472050f25781a3aad2b5066.svg",
+    "main.aa01c07c.css.map": "/static/css/main.aa01c07c.css.map",
+    "main.5beb665b.js.map": "/static/js/main.5beb665b.js.map",
+    "787.3d67d529.chunk.js.map": "/static/js/787.3d67d529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa01c07c.css",
+    "static/js/main.5beb665b.js"
+  ]
+}
